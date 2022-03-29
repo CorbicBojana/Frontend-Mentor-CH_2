@@ -68,6 +68,14 @@ h4 {
   font-size: 1.2rem;
 }
 
+.container {
+  display: none;
+}
+
+.container_intro {
+  display: block;
+}
+
 .intro {
   color: black;
   font-weight: 700;
